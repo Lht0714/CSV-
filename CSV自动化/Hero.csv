@@ -1,0 +1,6 @@
+﻿heroId,name,_note,rare,type,advance_rate,attack,isOpen
+int,string,string,int,int,float,int,bool
+1,剑客,剑客是xxxx职业,11,1,0.8,100,true
+2,法师,法师是xxxx职业,10,2,0.7,100,true
+3,圣骑,圣骑是xxxx职业,8,3,0.75,100,false
+4,刺客,刺客是xxxx职业,15,4,0.85,100,true
